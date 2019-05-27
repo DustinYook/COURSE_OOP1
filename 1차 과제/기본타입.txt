@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/cpp/cpp/fundamental-types-cpp?f1url=https%3A%2F%2Fmsdn.microsoft.com%2Fquery%2Fdev15.query%3FappId%3DDev15IDEF1%26l%3DEN-US%26k%3Dk(int_CPP)%3Bk(int)%3Bk(DevLang-C%2B%2B)%3Bk(TargetOS-Windows)%26rd%3Dtrue
+https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference
+https://msdn.microsoft.com/ko-kr/library/s3f49ktz.aspx
+https://msdn.microsoft.com/ko-kr/library/s3f49ktz.aspx

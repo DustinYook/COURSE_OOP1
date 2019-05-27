@@ -1,0 +1,5 @@
+﻿  10일차_6.cpp
+c:\users\aomori kaitou\source\repos\10일차\10일차_6\10일차_6.cpp(41): error C2572: 'powThree': redefinition of default argument: parameter 1
+  c:\users\aomori kaitou\source\repos\10일차\10일차_6\10일차_6.cpp(12): note: see declaration of 'powThree'
+c:\users\aomori kaitou\source\repos\10일차\10일차_6\10일차_6.cpp(41): error C2572: 'powThree': redefinition of default argument: parameter 2
+  c:\users\aomori kaitou\source\repos\10일차\10일차_6\10일차_6.cpp(12): note: see declaration of 'powThree'

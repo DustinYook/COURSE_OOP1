@@ -1,0 +1,4 @@
+﻿  7일차.cpp
+c:\users\aomori kaitou\source\repos\7일차\7일차\7일차.cpp(8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aomori kaitou\source\repos\7일차\7일차\7일차.cpp(13): error C2397: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\aomori kaitou\source\repos\7일차\7일차\7일차.cpp(14): error C2397: conversion from 'double' to 'int' requires a narrowing conversion

@@ -1,0 +1,2 @@
+// gradeCounter = 1;이면 밑에 average 구할 때 gradeCounter-1; 또는 while의 gradeCOunter < 10
+// printf("class average: %.2lf\n", average); // C 언어 방식
